@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+body h1 {
+    text-align: center;
+}
+.container {
+    width: 100%;
+    padding-top: 10%;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+
+}
+
+tr td{
+    border: 1px solid black;
+    width: 10%;
+    text-align: center;
+}
+
+tr th{
+    border: 1px solid black;
+}
+
+form {
+    display: block;
+    margin: 5vw  auto;
+    border: 1px solid black;
+    width: 520px;
+}
+
+select, input {
+    display: block;
+    margin: 0 auto;
+}
+
+#label {
+    border: 1px solid black;
+    text-align: center;
+}
+
+input{
+    width: 120px;
+}
+
+caption {
+    border: 1px solid black;
+}
+
+img {
+    display: block;
+    width: 20vw;
+    margin: 3vh auto;
+}
+
+a {
+    display: block;
+    border: 1px solid black;
+    text-align: center;
+    width: 150px;
+    margin: 3vh auto;
+}
+
+h3 {
+    display: block;
+    text-align: center;
+}
